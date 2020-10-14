@@ -2,7 +2,7 @@
 <plugins> 
   <pyqgis_plugin name="hmo_density_query" version="0.99">
     <qgis_minimum_version>3.0</qgis_minimum_version>
-    <qgis_maximum_version>3.14</qgis_maximum_version>
-      <download_url>https://github.com/spwgit/spwqgis.github.io/hmo_density_query.zip</download_url>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+      <download_url>spwqgis.github.io/hmo_density_query.zip</download_url>
   </pyqgis_plugin>
 </plugins>

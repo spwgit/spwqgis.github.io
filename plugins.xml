@@ -12,7 +12,7 @@
     <qgis_minimum_version>3.4</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <repository>https://gitlab.cloud.lutraconsulting.co.uk/lcc/qgis-resampler-plugin</repository>
-    <author_name>Lutra Consulting Limited</author_name>
+    <author_name>Simon Warren - SW2 ICT</author_name>
     <homepage>https://gitlab.cloud.lutraconsulting.co.uk/lcc/qgis-resampler-plugin</homepage>
     <tracker>https://gitlab.cloud.lutraconsulting.co.uk/lcc/qgis-resampler-plugin/issues</tracker>
     <tags>Python</tags>

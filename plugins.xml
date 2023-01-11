@@ -1,6 +1,6 @@
 
 <plugins> 
-  <pyqgis_plugin name="hmo_density_query" version="0.99">
+  <pyqgis_plugin name="HMO Density Query" version="0.99">
     <description>Calculate density of HMO points in 100m radius of a given point relative to UPRN points.</description>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
